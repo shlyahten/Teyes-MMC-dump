@@ -1,0 +1,5 @@
+Загрузка из: ROM2 (Загрузочный раздел 1) , ширина: 1 бит
+Boot Partition [179] / Bus Config [177] : 0x08 / 0x00
+H/W Reset Function [162] : 0x01 , RST_n signal постоянно включен
+
+Partition setting [PARTITION_SETTING_COMPLETE] : 0x00
